@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: catalog-service
+    name: catalogo-service
   rabbitmq:
     username: guest
     password: guest
